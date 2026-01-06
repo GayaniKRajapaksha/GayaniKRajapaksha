@@ -11,15 +11,14 @@
 - 🎓 **BSc (Hons) in Software Engineering** – ICBT / Cardiff Metropolitan University (UK)
 - 💼 Seeking **Internship / Junior Software Engineer** opportunities
 - 💡 Interested in **Web Development, Databases & AI-based Applications**
-- 🌱 Currently improving skills in **Java, Web Development & Databases**
-- 💬 Ask me about **Java, PHP, HTML, CSS, JavaScript**
+- 🌱 Currently improving skills in **React , Web Development & Databases**
+- 💬 Ask me about **PHP, HTML, CSS, JavaScript , Python , React**
 - 📫 Email: **gayanirajapaksha6@gmail.com**
 
 ---
 
 ### 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
