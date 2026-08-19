@@ -11,9 +11,9 @@
 - 🎓 **BSc (Hons) in Software Engineering** (Second Class Upper) – ICBT / Cardiff Metropolitan University (UK)
 - 💼 Completed Software Engineering Internship at **Sri Lanka Customs Headquarters**
 - 💡 Passionate about **Full-Stack Web Development, Backend Architectures & Databases**
-- 🌱 Currently strengthening skills in **MERN Stack & Scalable Web Solutions**[cite: 1]
-- 💬 Ask me about **Python, React, Node.js, PHP, MySQL, and JavaScript**[cite: 1]
-- 📫 Email: **gayanirajapaksha6@gmail.com**[cite: 1]
+- 🌱 Currently strengthening skills in **MERN Stack & Scalable Web Solutions**
+- 💬 Ask me about **Python, React, Node.js, PHP, MySQL, and JavaScript**
+- 📫 Email: **gayanirajapaksha6@gmail.com**
 
 ---
 
@@ -45,8 +45,8 @@
 ---
 
 ### 📌 Current Focus
-- Building **Full-Stack Web Applications** with React, Node.js & Python[cite: 1]
-- Designing and optimizing **relational (MySQL) and NoSQL (MongoDB) databases**[cite: 1]
+- Building **Full-Stack Web Applications** with React, Node.js & Python
+- Designing and optimizing **relational (MySQL) and NoSQL (MongoDB) databases**
 - Exploring **cloud deployments and scalable APIs**
 
 ---
